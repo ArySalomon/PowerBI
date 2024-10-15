@@ -1,7 +1,11 @@
 # Ignore config file
-config
+config.py
 
-# Ignore other files you don’t want to commit
+# Ignore log files
 *.log
+
+# Ignore compiled Python files
 __pycache__/
+
+# Ignore node_modules folder
 node_modules/
