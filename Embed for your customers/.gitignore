@@ -1,0 +1,7 @@
+# Ignore config file
+AppOwnsData/config.py
+
+# Ignore other files and directories
+*.log
+__pycache__/
+node_modules/
