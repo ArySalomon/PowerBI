@@ -1,5 +1,5 @@
 # Ignore config file
-config
+config.py
 
 # Ignore other files you don’t want to commit
 *.log
