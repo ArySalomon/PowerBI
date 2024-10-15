@@ -1,0 +1,7 @@
+# Ignore config file
+config
+
+# Ignore other files you don’t want to commit
+*.log
+__pycache__/
+node_modules/
